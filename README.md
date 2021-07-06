@@ -2,6 +2,8 @@
 
 This folder is used as the polybar setup
 
+![screenshot](Screenshot.png)
+
 ## Requirements
 - Polybar installed
 - fonts:
