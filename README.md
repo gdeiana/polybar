@@ -1,6 +1,8 @@
 # Polybar Setup
 
-This folder is used as the polybar setup
+This folder is my personal polybar setup for Pop OS with two screens (laptop + external monitor).  
+The polybar is only active in the main screen.  
+I could not find a way to automatically resize the bar when connecting/disconnecting from the external monitor, so I created a shortcut in the start menu to relaunch the bar quickly when connecting/disconnecting from the monitor.
 
 ![screenshot](Screenshot.png)
 
